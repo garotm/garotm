@@ -27,10 +27,10 @@
 
 ### 🚀 Featured Projects
 
-- **[fleXRP](https://github.com/fleXRPL/fleXRP)** - Modern payment gateway for XRP integration
-- **[RunOn](https://github.com/fleXRPL/RunOn)** - Running event discovery mobile app (iOS/Swift)
-- **[cursor-rules-dynamic](https://github.com/fleXRPL/cursor-rules-dynamic)** - VSCode extension for AI development
-- **[flexrpl-discord-bot](https://github.com/fleXRPL/flexrpl-discord-bot)** - GitHub-Discord integration bot
+- [![fleXRP](https://img.shields.io/badge/fleXRP-Payment%20Gateway-blue?style=flat-square)](https://github.com/fleXRPL/fleXRP) - Modern payment gateway for XRP integration
+- [![RunOn](https://img.shields.io/badge/RunOn-iOS%20App-orange?style=flat-square)](https://github.com/fleXRPL/RunOn) - Running event discovery mobile app (iOS/Swift)
+- [![cursor-rules-dynamic](https://img.shields.io/badge/cursor--rules-VSCode%20Extension-purple?style=flat-square)](https://github.com/fleXRPL/cursor-rules-dynamic) - VSCode extension for AI development
+- [![flexrpl-discord-bot](https://img.shields.io/badge/Discord%20Bot-Integration-green?style=flat-square)](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
 
 ### 💻 Primary Tech Stack &nbsp;
 
@@ -49,3 +49,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garot-conklin)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/garotconklin)
