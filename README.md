@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/garotm">Garot Conklin</a> 👋</h1>
-<p align="center">DevOps Leader, Senior Python Developer & AI Architect based in Lockport, New York. Founder of fleXRPL - building modern payment solutions on XRPL.</p>
+<p align="center">DevOps Leader, Senior Python Developer & AI Architect based in Lockport, New York. Founder of <a href="https://github.com/fleXRPL">fleXRPL</a> - building modern payment solutions on XRPL.</p>
 <p align="center">Passionate about data analytics, AI collaboration, and creating innovative fintech/Medtech solutions. Leading the development of secure payment gateways and AI-powered developer tools.</p>
+
+---
 
 ### 🛠 Skills &nbsp;
 
@@ -25,6 +27,8 @@
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+---
+
 ### 🚀 Featured Projects
 
 - [![fleXRP](https://img.shields.io/badge/fleXRP-Payment%20Gateway-blue?style=flat-square)](https://github.com/fleXRPL/fleXRP) - Modern payment gateway for XRP integration
@@ -33,6 +37,8 @@
 - [![flexrpl-discord-bot](https://img.shields.io/badge/Discord%20Bot-Integration-green?style=flat-square)](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
 - [![githubaithlib](https://img.shields.io/badge/githubauthlib-Authentication-red?style=flat-square)](https://github.com/fleXRPL/githubaithlib) - Cross-platform GitHub token management
 - [![datadog-dashboard-deployer](https://img.shields.io/badge/datadog--dashboard--deployer-Automation-brown?style=flat-square)](https://github.com/fleXRPL/datadog-dashboard-deployer) - Automated Datadog dashboard deployment tool
+
+---
 
 ### 💻 Primary Tech Stack &nbsp;
 
@@ -43,11 +49,15 @@
 - **githubauthlib**: Python, [pypi.org](https://pypi.org/project/githubauthlib/)
 - **datadog-dashboard-deployer**: Python, [pypi.org](https://pypi.org/project/datadog-dashboard-deployer/)
 
+---
+
 ### 📈 GitHub Analytics &nbsp;
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garotm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
+
+---
 
 ### 📫 Connect & Collaborate &nbsp;
 
