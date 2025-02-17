@@ -37,6 +37,7 @@
 - [![flexrpl-discord-bot](https://img.shields.io/badge/Discord%20Bot-Integration-green?style=flat-square)](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
 - [![githubaithlib](https://img.shields.io/badge/githubauthlib-Authentication-red?style=flat-square)](https://github.com/fleXRPL/githubaithlib) - Cross-platform GitHub token management
 - [![datadog-dashboard-deployer](https://img.shields.io/badge/datadog--dashboard--deployer-Automation-brown?style=flat-square)](https://github.com/fleXRPL/datadog-dashboard-deployer) - Automated Datadog dashboard deployment tool
+- [![datadog-monitor-deployer](https://img.shields.io/badge/datadog--monitor--deployer-Automation-olive?style=flat-square)](https://github.com/fleXRPL/datadog-monitor-deployer) - Automated Datadog monitor deployment tool
 
 ---
 
@@ -48,6 +49,7 @@
 - **flexrpl-discord-bot**: Python, Discord.py
 - **githubauthlib**: Python, [pypi.org](https://pypi.org/project/githubauthlib/)
 - **datadog-dashboard-deployer**: Python, [pypi.org](https://pypi.org/project/datadog-dashboard-deployer/)
+- **datadog-monitor-deployer**: Python, [pypi.org](https://pypi.org/project/datadog-monitor-deployer/)
 
 ---
 
