@@ -58,9 +58,9 @@
 ---
 
 ### 📈 GitHub Analytics &nbsp;
-
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garotm&show_icons=true&theme=dark&include_all_commits=true"/>
+  <!-- Your personal stats cards - these work fine -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=garotm&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Statistics&border_color=30363d&show_owner=true&line_height=24"/>
 </p>
 
 ---
