@@ -51,9 +51,14 @@
 - **RunOn**: Swift, iOS, Python (Lambda)
 - **cursor-rules-dynamic**: TypeScript, VSCode API
 - **flexrpl-discord-bot**: Python, Discord.py
-- **githubauthlib**: Python, [pypi.org](https://pypi.org/project/githubauthlib/)
-- **datadog-dashboard-deployer**: Python, [pypi.org](https://pypi.org/project/datadog-dashboard-deployer/)
-- **datadog-monitor-deployer**: Python, [pypi.org](https://pypi.org/project/datadog-monitor-deployer/)
+
+### [![alt text](https://pypi.org/static/images/logo-small.8998e9d1.svg)](https://pypi.org/) Python Projects
+
+- [githubauthlib](https://pypi.org/project/githubauthlib/)
+- [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
+- [datadog-monitor-deployer](https://pypi.org/project/datadog-monitor-deployer/)
+- [datadog-healthcheck-deployer](https://pypi.org/project/datadog-healthcheck-deployer/)
+- [catchpoint-configurator](https://pypi.org/project/catchpoint-configurator) - coming soon!
 
 ---
 
