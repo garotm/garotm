@@ -52,7 +52,9 @@
 - **cursor-rules-dynamic**: TypeScript, VSCode API
 - **flexrpl-discord-bot**: Python, Discord.py
 
-### [![alt text](https://pypi.org/static/images/logo-small.8998e9d1.svg)](https://pypi.org/) Python Projects
+---
+
+### [![alt text](https://pypi.org/static/images/logo-small.8998e9d1.svg)](https://pypi.org/)  Python Projects
 
 - [githubauthlib](https://pypi.org/project/githubauthlib/)
 - [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
