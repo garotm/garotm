@@ -60,7 +60,8 @@
 - [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
 - [datadog-monitor-deployer](https://pypi.org/project/datadog-monitor-deployer/)
 - [datadog-healthcheck-deployer](https://pypi.org/project/datadog-healthcheck-deployer/)
-- [catchpoint-configurator](https://pypi.org/project/catchpoint-configurator) - coming soon!
+- [catchpoint-configurator](https://pypi.org/project/catchpoint-configurator)
+- [github-mcp](https://pypi.org/project/github-mcp) - coming soon!
 
 ---
 
