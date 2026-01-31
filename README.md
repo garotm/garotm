@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/garotm">Garot Conklin</a> 👋</h1>
-<p align="center">DevOps Leader, Senior Python Developer & AI Architect based in Lockport, New York. Primary project focus: <a href="https://github.com/fleXRPL/healthweave">HealthWeave</a> — building AI/MedTech data & clinical collaboration solutions. Founder of <a href="https://github.com/fleXRPL">fleXRPL</a> - building modern payment solutions and developer tooling.</p>
+<p align="center">DevOps Leader, Senior Python Developer & AI Architect based in Lockport, New York.</p> 
+<p align="center">Primary project focus: <a href="https://github.com/fleXRPL/healthweave">HealthWeave</a> — building AI/MedTech data & clinical collaboration solutions.</p>
+<p align="center">Founder of <a href="https://github.com/fleXRPL">fleXRPL</a> - building modern payment solutions and developer tooling.</p>
 <p align="center">Passionate about data analytics, AI collaboration, and creating innovative fintech/Medtech solutions leveraging AI-powered developer tools.</p>
 
 ---
