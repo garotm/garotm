@@ -10,6 +10,12 @@
   <a href="https://github.com/garotm/garotm/wiki">Professional Resume</a>
 </h2>
 
+# :speaker: Active Projects
+- :satellite: [signal](https://flexrpl.github.io/signal) - Daily cross-spectrum political intelligence — powered by local AI (ollama)
+- :thought_balloon: [fleXRPL](https://flexrpl.github.io/) - An independent AI-native development organization — building clinical intelligence, political analysis tools, and observability automation as a nomadic coder in partnership with large language models.
+
+---
+
 ### 🛠 Skills &nbsp;
 
 - **Languages:** &nbsp;
