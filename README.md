@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/garotm">Garot Conklin</a> 👋</h1>
 <p align="center">DevOps Leader, Senior Python Developer & AI Architect based in Lockport, New York.</p> 
-<p align="center">Primary project focus: <a href="https://github.com/fleXRPL/healthweave">HealthWeave</a> — building AI/MedTech data & clinical collaboration solutions.</p>
+<p align="center">Major project focus: <a href="https://github.com/fleXRPL/healthweave">HealthWeave</a> — building AI/MedTech data & clinical collaboration solutions.</p>
+<p align="center">Primary project focus: <a href="https://github.com/fleXRPL/signal">signal</a> — a fully automated political intelligence pipeline. It ingests RSS feeds from 18 news sources spanning the full political spectrum and reduces them through a layered intelligence hierarchy..</p>
 <p align="center">Founder of <a href="https://github.com/fleXRPL">fleXRPL</a> - building modern payment solutions and developer tooling.</p>
 <p align="center">Passionate about data analytics, AI collaboration, and creating innovative fintech/Medtech solutions leveraging AI-powered developer tools.</p>
 
@@ -10,9 +11,16 @@
   <a href="https://github.com/garotm/garotm/wiki">Professional Resume</a>
 </h2>
 
-# :speaker: Active Projects
+# :speaker: Active Projects/Orgs
 - :satellite: [signal](https://flexrpl.github.io/signal) - Daily cross-spectrum political intelligence — powered by local AI (ollama)
 - :thought_balloon: [fleXRPL](https://flexrpl.github.io/) - An independent AI-native development organization — building clinical intelligence, political analysis tools, and observability automation as a nomadic coder in partnership with large language models.
+
+---
+
+## 📚 Publishing
+
+As a publisher, author, and voice-over artist
+- [Garot-Conklin](https://www.amazon.com/stores/Garot-Conklin/author/B0H2266R4P)
 
 ---
 
